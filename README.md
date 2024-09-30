@@ -22,6 +22,8 @@ Step 1: Run the Python Script
 The registration process is handled entirely within the terminal. To run the script:
 
 python app.py
+
+
 Step 2: Validate the HTML File
 Open the index.html file in VSCodium. Use the Emmet extension to improve the structure and validation of the HTML code.
 
