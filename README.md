@@ -1,4 +1,4 @@
-Task Eight - HTML and Python Registration Form
+Task Nine - HTML and Python Registration Form
 Project Overview
 This project contains two tasks:
 
@@ -17,14 +17,12 @@ sudo apt install -y codium
 For more details, visit: VSCodium Official Site.
 
 How to Run the Project
-Step 1: Clone the Repository
-git clone https://github.com/yourusername/taskeight.git
-cd taskeight
-Step 2: Run the Python Script
+
+Step 1: Run the Python Script
 The registration process is handled entirely within the terminal. To run the script:
 
 python app.py
-Step 3: Validate the HTML File
+Step 2: Validate the HTML File
 Open the index.html file in VSCodium. Use the Emmet extension to improve the structure and validation of the HTML code.
 
 Running the Python Script Without python Command
